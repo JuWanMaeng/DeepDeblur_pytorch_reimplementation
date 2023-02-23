@@ -31,9 +31,9 @@ val.json     → 210
 
 ![Untitled](https://github.com/JuWanMaeng/DeepDeblur_pytorch_reimplementation/blob/main/figure/Untitled%201.png)
 
-![Untitled](readme%20362eea42b7a44310a2cf555c4e681e47/Untitled%201.png)
+![Untitled]([readme%20362eea42b7a44310a2cf555c4e681e47/Untitled%201.png](https://github.com/JuWanMaeng/DeepDeblur_pytorch_reimplementation/blob/main/figure/Untitled%202.png))
 
-![Untitled](readme%20362eea42b7a44310a2cf555c4e681e47/Untitled%202.png)
+![Untitled]([readme%20362eea42b7a44310a2cf555c4e681e47/Untitled%202.png](https://github.com/JuWanMaeng/DeepDeblur_pytorch_reimplementation/blob/main/figure/Untitled.png))
 
 | content loss | L2 |
 | --- | --- |

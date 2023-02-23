@@ -29,7 +29,7 @@ val.json     → 210
 
 # 4. Loss
 
-![Untitled](readme%20362eea42b7a44310a2cf555c4e681e47/Untitled.png)
+![Untitled](https://github.com/JuWanMaeng/DeepDeblur_pytorch_reimplementation/blob/main/figure/Untitled%201.png)
 
 ![Untitled](readme%20362eea42b7a44310a2cf555c4e681e47/Untitled%201.png)
 
